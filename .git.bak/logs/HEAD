@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 82f129f49d437d6f0eb869740f9139ff7fad014c Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793703351 +0500	commit (initial): chore: import upstream open-source source snapshot
+82f129f49d437d6f0eb869740f9139ff7fad014c ee44dc57eb883825dcb71d4487ba84b4863d2536 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793704434 +0500	commit: docs(self-hosting): document source checkout and restore upstream license evidence
+ee44dc57eb883825dcb71d4487ba84b4863d2536 22b82c878f933f12cd6d352fa422d8486ce13a42 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793763992 +0500	commit: Final commit
+22b82c878f933f12cd6d352fa422d8486ce13a42 22b82c878f933f12cd6d352fa422d8486ce13a42 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793766735 +0500	checkout: moving from main to main
